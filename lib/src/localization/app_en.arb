@@ -1,0 +1,6 @@
+{
+  "appTitle": "niji_devtools_for_codemagic",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
